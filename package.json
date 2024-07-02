@@ -1,11 +1,11 @@
 {
-  "name": "Quoteflix Contectus",
+  "name": "node-js-app",
   "version": "1.0.0",
   "description": "A simple Node.js application with a MySQL database connection",
-  "main": "contectus.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node contectus.js"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
