@@ -2,10 +2,10 @@
   "name": "node-js-app",
   "version": "1.0.0",
   "description": "A simple Node.js application with a MySQL database connection",
-  "main": "server.js",
+  "main": "contectus.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node contectus.js"
   },
   "author": "",
   "license": "ISC",
